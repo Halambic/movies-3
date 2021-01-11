@@ -26,7 +26,7 @@ Afin de suivre les bonnes pratiques d'usage, les paramètres de connexion doiven
 
 
 Copier le repository de travail floupics
-git clone https://github.com/phil3in/Movies3
+git clone git@github.com:Halambic/movies-3.git
 
 Aller dans le repository floupics
 cd Movies3
